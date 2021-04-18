@@ -1,0 +1,25 @@
+[
+    {
+        "id": 0,
+        "title": "Supry",
+        "shortdescription": "De app voor al je boodschappen bij al jouw favoriete supermarkten.",
+        "description": "Al je boodschappen in een app voor de Jumbo, Ah, Coop, Dirk en de plus. Ik maak gebruik van de API's van de winkels, eerst heb ik de API's gereverse engineerded hierna heb ik alle product data in een formaat gezet waardoor je alle data in een app kunt gebruiken. De klanten app, API en de bezorger API zijn al af. Ik denk dat alles af is voor mei en wil het de op de markt brengen. De app zal verkrijgbaar zijn op Android en IOS.",
+        "technologies": [
+            {"name":"laravel"},
+            {"name":"Nativescript"},
+            {"name":"Vue"}
+        ]
+    },
+    {
+        "id": 1,
+        "title": "JobWatcher",
+        "shortdescription": "De app voor al je boodschappen bij al jouw favoriete supermarkten.",
+        "description": "Al je boodschappen in een app voor de Jumbo, Ah, Coop, Dirk en de plus. Ik maak gebruik van de API's van de winkels, eerst heb ik de API's gereverse engineerded hierna heb ik alle product data in een formaat gezet waardoor je alle data in een app kunt gebruiken. De klanten app, API en de bezorger API zijn al af. Ik denk dat alles af is voor mei en wil het de op de markt brengen. De app zal verkrijgbaar zijn op Android en IOS.",
+        "technologies": [
+            {"name":"laravel"},
+            {"name":"Nativescript"},
+            {"name":"Vue"}
+        ]
+    }
+
+]
