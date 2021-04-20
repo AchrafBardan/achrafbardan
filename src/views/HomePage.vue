@@ -10,7 +10,7 @@
             <li><a href="#ikbeneen"><span class="font-bold">Wie</span>BenIk</a></li>
             <li><a href="#projecten"><span class="font-bold">Pro</span>jecten</a></li>
             <li><a href="#ervaringen"><span class="font-bold">Erv</span>aringen</a></li>
-            <li><a href=""><span class="font-bold">Con</span>tact</a></li>
+            <li><a href="#contact"><span class="font-bold">Con</span>tact</a></li>
           </ul>
         </div>
       </div>
@@ -45,7 +45,7 @@
         
       </ul>
     </div>
-    <div class="flex justify-center px-56 py-14">
+    <div id="contact" class="flex justify-center px-56 py-14">
       <div class="flex flex-col items-center w-full p-10 space-y-2 bg-white shadow-lg text-primary">
         <h5 class="text-6xl font-light ">Bel me terug</h5>
         <div class="flex flex-col items-center space-y-2">
