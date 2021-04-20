@@ -8,8 +8,8 @@
         <div class="px-6 bg-gray-200 py-7 rounded-xl text-shadow">
           <ul class="text-3xl text-primary font-Raleway">
             <li><a href="#ikbeneen"><span class="font-bold">Wie</span>BenIk</a></li>
-            <li><a href=""><span class="font-bold">Pro</span>jecten</a></li>
-            <li><a href=""><span class="font-bold">Erv</span>aringen</a></li>
+            <li><a href="#projecten"><span class="font-bold">Pro</span>jecten</a></li>
+            <li><a href="#ervaringen"><span class="font-bold">Erv</span>aringen</a></li>
             <li><a href=""><span class="font-bold">Con</span>tact</a></li>
           </ul>
         </div>
@@ -35,6 +35,25 @@
         <h3 class="text-6xl text-primary"><span class="font-bold">Pro</span>jecten</h3>
       </div>
       <projecten/>
+    </div>
+    <div id="ervaringen" class="flex flex-col w-full py-10 mt-10 bg-primary h-96 px-14">
+      <h3 class="mb-4 text-6xl text-white"><span class="font-bold">Erv</span>aringen</h3>
+      <ul class="space-y-3">
+        <li class="text-3xl text-white"><span class="font-semibold underline">Ondernemen</span> Van september 2019 Tot heden</li>
+        <li class="text-3xl text-white"><span class="font-semibold underline">Freelancen</span> Van augustus 2020 Tot heden</li>
+        <li class="text-3xl text-white"><span class="font-semibold underline">Pizzabezorgen</span> Van oktober 2018 Tot augustus 2019 </li>
+        
+      </ul>
+    </div>
+    <div class="flex justify-center px-56 py-14">
+      <div class="flex flex-col items-center w-full p-10 space-y-2 bg-white shadow-lg text-primary">
+        <h5 class="text-6xl font-light ">Bel me terug</h5>
+        <div class="flex flex-col items-center space-y-2">
+          <input class="px-5 py-2 border w-52 border-primary" type="text" name="phonenumber" placeholder="Naam">
+          <input class="px-5 py-2 border w-52 border-primary" type="tel" name="phonenumber" placeholder="Telefoonnummer">
+          <button class="px-5 py-2 text-white w-52 bg-primary">Verstuur</button>
+        </div>
+      </div>
     </div>
   </div>
 </template>

@@ -15,8 +15,9 @@
         <h4 class="mt-10 text-5xl font-light text-primary">Technologien</h4>
         <div class="flex space-x-4">
           <div v-for="technologie in technologies" v-bind:key="technologie">
-            {{ technologie.name }}
+            {{ technologie }}
           </div>
+          {{ technologies }}
         </div>
       </div>
       <div class="">
