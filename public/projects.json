@@ -3,23 +3,50 @@
         "id": 0,
         "title": "Supry",
         "shortdescription": "De app voor al je boodschappen bij al jouw favoriete supermarkten.",
+        "link":"https://supry.achrafbardan.me",
         "description": "Al je boodschappen in een app voor de Jumbo, Ah, Coop, Dirk en de plus. Ik maak gebruik van de API's van de winkels, eerst heb ik de API's gereverse engineerded hierna heb ik alle product data in een formaat gezet waardoor je alle data in een app kunt gebruiken. De klanten app, API en de bezorger API zijn al af. Ik denk dat alles af is voor mei en wil het de op de markt brengen. De app zal verkrijgbaar zijn op Android en IOS.",
         "technologies": [
             {"name":"laravel"},
-            {"name":"Nativescript"},
-            {"name":"Vue"}
+            {"name":"nativescript"},
+            {"name":"vue"}
         ]
     },
     {
         "id": 1,
         "title": "JobWatcher",
-        "shortdescription": "De app voor al je boodschappen bij al jouw favoriete supermarkten.",
-        "description": "Al je boodschappen in een app voor de Jumbo, Ah, Coop, Dirk en de plus. Ik maak gebruik van de API's van de winkels, eerst heb ik de API's gereverse engineerded hierna heb ik alle product data in een formaat gezet waardoor je alle data in een app kunt gebruiken. De klanten app, API en de bezorger API zijn al af. Ik denk dat alles af is voor mei en wil het de op de markt brengen. De app zal verkrijgbaar zijn op Android en IOS.",
+        "shortdescription": "JobWatcher is een freelance platform waar werkgevers",
+        "link":"https://jobwatcher.nl",
+        "description": "JobWatcher is een freelance platform waar werkgevers kunnen zoeken naar freelancers die eenamlig kunnen werken voor hen.",
         "technologies": [
             {"name":"laravel"},
-            {"name":"Nativescript"},
-            {"name":"Vue"}
+            {"name":"livewire"},
+            {"name":"tailwind"}
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Revy",
+        "shortdescription": "Reservatie platform voor winkels",
+        "link":"https://revy.ml",
+        "description": "Toen onze minister president voorstelde om vanaf 3 maart alle winkels te openen op afspraak, kwam ik gelijk op het idee om vraag naar aanbod te brengen. Dus was ik een plan gaan bedenken om 'winkelen op afspraak' op de markt te brengen.",
+        "technologies": [
+            {"name":"laravel"},
+            {"name":"vue"},
+            {"name":"tailwind"}
+        ]
+    },
+    {
+        "id": 3,
+        "title": "ShareIt",
+        "shortdescription": "Link deel platform",
+        "link":"https://shareit.achrafbardan.me/login",
+        "description": "Dus ik zat met een probleem dat ik elke keer als ik een link van mijn laptop naar mijn mobiel moest sturen dat ik het via whatsapp moest doen. Ik dacht van dit kan anders dus heb ik voor mij zelf een web applicatie binnen een dag gemaakt waarmee ik links kan delen tussen al mijn apparaten.",
+        "technologies": [
+            {"name":"laravel"},
+            {"name":"vue"},
+            {"name":"tailwind"}
         ]
     }
+
 
 ]
